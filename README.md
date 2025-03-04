@@ -1,7 +1,5 @@
 # Futurize
 
-![Futurize Logo](./src/kanban.svg)
-
 ## Descrição do Projeto
 
 O **Futurize** é um gerenciador de projetos acadêmicos desenvolvido para facilitar a organização e o acompanhamento de tarefas, prazos e colaborações em projetos educacionais. A plataforma utiliza tecnologias modernas para oferecer uma experiência completa, tanto no backend quanto no frontend, com suporte para dispositivos móveis e web.
